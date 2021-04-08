@@ -3,8 +3,8 @@ from telebot.types import (
     ReplyKeyboardMarkup, KeyboardButton,
     InlineKeyboardMarkup, InlineKeyboardButton, ReplyKeyboardRemove
 )
-BOT_TOKEN = "1757888846:AAFCLdmQfCYt5OxpRCgv6CZp7nQDIJfA2HI"
-CHANNEL_ID = "-1001171036817"
+BOT_TOKEN = ""
+CHANNEL_ID = ""
 
 
 bot = telebot.TeleBot(BOT_TOKEN)
